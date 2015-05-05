@@ -1,0 +1,26 @@
+/* MAIN */
+.wp_fb_settings_page {width:1705px;height:auto;}
+/* TITLE */
+.wp_fb_settings_title {background:#4a6ea9;color:#fff;margin-top:15px;}
+.wp_fb_settings_title h3 {color:#fff;padding:0px;margin:0px;font-family:'Arial';font-size:32px;}
+.wp_fb_settings_title h4 {color:#fff;padding:0px;margin:0px;font-family:'Arial';font-size:26px;}
+.wp_fb_settings_title tr.title {height:100px;}
+.wp_fb_settings_title td.title_left {text-align:left;padding:20px;}
+.wp_fb_settings_title td.title_right {text-align:right;padding:20px;}
+/* TITLE SMALL */
+.wp_fb_settings_title_small {background:#4a6ea9;color:#fff;margin-top:10px;}
+.wp_fb_settings_title_small h3 {color:#fff;padding:0px;margin:0px;font-family:'Arial';font-size:24px;}
+.wp_fb_settings_title_small h4 {color:#fff;padding:0px;margin:0px;font-family:'Arial';font-size:16px;}
+.wp_fb_settings_title_small tr.title {height:50px;}
+.wp_fb_settings_title_small td.title_left {text-align:left;padding:20px;}
+.wp_fb_settings_title_small td.title_right {text-align:right;padding:20px;}
+/* SETTINGS TABLE */
+.wp_fb_settings_table {border:2px solid #4a6ea9;}
+.wp_fb_settings_table tr.normal {height:15px;}
+.wp_fb_settings_table tr.normal input {width:99%;}
+.wp_fb_settings_table tr.normal td {text-align:left;}
+.wp_fb_settings_table td.text {padding-left:20px;}
+.wp_fb_settings_table hr {padding:0px;margin:0px;border: 1px solid #4a6ea9;height:1px;width:100%;background: #4a6ea9;}
+/* MESSAGES */
+.save_message {background:#4a6ea9;height:auto;width:100%;}
+.save_message p {color:#fff;padding:10px;}
