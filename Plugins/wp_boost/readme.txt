@@ -1,1 +1,2 @@
-Boost pro Wordpress
+Test Plugin for wordpress. 
+*School Homework :D
